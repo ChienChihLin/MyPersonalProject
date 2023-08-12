@@ -1,2 +1,6 @@
 # MyPersonalProject
-use for personal project manager
+Use for personal project manager
+
+********************************
+Upload my modified debian package
+********************************
